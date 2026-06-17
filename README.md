@@ -13,3 +13,8 @@ release tooling against a real GitHub repo without touching production code.
 
 This repo exists purely for low-risk experimentation. Anything here can be
 changed, broken, or deleted without consequence. Isn't it exciting?
+
+## Contributing
+
+Open a branch, make your change, and merge it into `main` via pull request.
+That's it — no ceremony required in the sandbox.

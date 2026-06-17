@@ -12,4 +12,4 @@ release tooling against a real GitHub repo without touching production code.
 ## Purpose
 
 This repo exists purely for low-risk experimentation. Anything here can be
-changed, broken, or deleted without consequence.
+changed, broken, or deleted without consequence. Isn't it exciting?
